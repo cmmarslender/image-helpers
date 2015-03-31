@@ -1,0 +1,15 @@
+{
+    "name": "cmmarslender/image-helpers",
+    "type": "wordpress-muplugin",
+    "description": "Helpers to make image upload fields easier to implement",
+    "authors": [
+        {
+            "name": "Chris Marslender",
+            "email": "chrismarslender@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
